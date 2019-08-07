@@ -7,7 +7,7 @@ Use the QGIS extension QuickOSM to download all the shape needed to your map.
 
 # Step 2 : 
 
-import the svg file in QGIS.
+import the svg folder in QGIS.
 
 # Step 3 : 
 
